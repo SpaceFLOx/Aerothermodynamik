@@ -22,6 +22,16 @@
                     "guid": "M`YH;UZ`!|",
                     "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
                     "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "Test 2",
+                        "Test 2"
+                    ],
+                    "guid": "C?w=K%j@ep",
+                    "note_model_uuid": "4a2a200f-9c13-11ea-a4cd-b4d5bdceb84c",
+                    "tags": []
                 }
             ]
         }
