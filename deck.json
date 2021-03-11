@@ -1,5 +1,6 @@
 {
     "__type__": "Deck",
+    "activeTags": [],
     "children": [
         {
             "__type__": "Deck",
@@ -47,9 +48,11 @@
             "media_files": [
                 "latex-194916c5d6bfe4be6fa6e5572f28d78a6c75b5ea.png",
                 "latex-1f72a7b73589548eba5c08417cdc88bc74e1daf1.png",
+                "latex-1fd9213d53a8232f6d181bdf666abb8ad48421a5.png",
                 "latex-48a36befc609ee17cb50f8784804dc0b23acb097.png",
                 "latex-6d86a414b3ed41504e6c476db60a1154e100912a.png",
                 "latex-79309ac8ad4a3d4bc0bf36cd9e08f5fb7ebbd520.png",
+                "latex-938c4eb248cb661c464ee7e180697181910acc93.png",
                 "latex-94e7cc26cfed8ccfc4b9b054f2d03364610f9a9e.png",
                 "latex-98271119b885f41c87d56d1726e1f2d9d9440a9b.png",
                 "paste-3d198632d01c703f5cda8041b6f0bbc2fe5ab94c.jpg",
@@ -90,7 +93,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "In welchem Zusammenhang stehen die mittlere freie Weglänge, Temperatur, Druck, Volumen, Masse und Dichte?",
+                        "[latex]In welchem Zusammenhang stehen die mittlere freie Weglänge, Temperatur, Druck, Volumen, Masse und Dichte?[/latex]",
                         "[latex]<div>$pV=mRT$, mit&nbsp; $R= const.$ \\&amp; $m=const.$\\\\</div><div>\\\\</div><div>Wenn $V=const.$ \\&amp; $T\\uparrow$:\\\\</div><div>$p\\uparrow, \\rho \\downarrow$ $\\to$ mittlere freie Weglänge $l = const.$\\\\</div><div><div>Wenn $V\\downarrow$ \\&amp; $ T\\uparrow$:\\\\</div><div>$p\\uparrow, \\rho \\uparrow$ $\\to$ mittlere freie Weglänge $ l\\downarrow$.\\\\</div><div><br></div><div>\\textbf{Die mittlere freie Weglänge wächst mit abnehmender Dichte}</div><div>[/latex]<br></div></div>"
                     ],
                     "guid": "zd[UdtS?wy",
@@ -120,7 +123,7 @@
                 {
                     "__type__": "Note",
                     "fields": [
-                        "Wie lautet das Theorem von Leukippos/Demokrit und was sagt es aus?",
+                        "[latex]Wie lautet das Theorem von Leukippos/Demokrit und was sagt es aus?[/latex]<br>",
                         "[latex]<div>\\textbf{\\textit{Bewegung wäre unmöglich, wenn kein leerer Raum existiert, in den ein Körper sich hinein bewegen kann.}}\\\\</div><div>\\\\</div><div>\\begin{itemize}</div><div>\\item Materie besteht aus Teilchen, die sich im leeren Raum bewegen</div><div>\\item Materie ist nicht beliebig teilbar</div><div>\\item kleinste, unteilbare Einheit $\\alpha\\tau o\\mu o\\sigma$(atomos)</div><div>\\item Atome sind von verschiedener Gestalt</div><div>\\item Unterschiede in den Materialeigenschaften durch unterschiedliche Teilchen und Bewegungen</div><div>\\end{itemize}</div><div><div>[/latex]<br></div></div>"
                     ],
                     "guid": "i}YaB(`|NR",
@@ -280,6 +283,7 @@
     "dyn": 0,
     "extendNew": 10,
     "extendRev": 50,
+    "inactiveTags": [],
     "media_files": [],
     "name": "Aerothermodynamik",
     "note_models": [
